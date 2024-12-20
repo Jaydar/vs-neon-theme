@@ -1,2 +1,2 @@
-# neon-vs
+# vs-neon-theme
 VSCode Neon Theme
