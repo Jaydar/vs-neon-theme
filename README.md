@@ -1,2 +1,2 @@
 # neon-vs
-Neon Theme
+VSCode Neon Theme
