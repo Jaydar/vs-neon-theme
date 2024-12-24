@@ -1,0 +1,29 @@
+{
+	"name": "vs-neon-theme",
+	"displayName": "Neon Theme",
+	"description": "VSCode Neon Theme",
+	"icon": "images/neon-theme_icon.png",
+	"version": "1.0.7",
+	"engines": {
+		"vscode": "^1.88.0"
+	},
+	"author": "Jaydar",
+	"publisher": "Jaydar",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/recursehex/Neon-Theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Neon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/neon-theme.json"
+			}
+		]
+	}
+}
